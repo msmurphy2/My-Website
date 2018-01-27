@@ -1,0 +1,128 @@
+ h1 {
+  font-family:'Comic Sans MS';
+  font-weight: bold;
+  color: #2e2728;
+  text-align: right;
+  font-size: 30px;
+  right: 0;
+  position: fixed;
+	top: -10;
+}
+
+ h2 {
+  font-family:'Comic Sans MS';
+  font-weight: bold;
+  color: #6f737a;
+  text-align: left;
+  font-size: 24px;
+}
+
+h3 {
+  font-family:'Comic Sans MS';
+  font-weight: bold;
+  font-size: 24px;
+  height: 100px;
+  background-color: #A8A8A8;
+  color: #566573;
+	vertical-align:text-top;
+	display:inline-block;
+    margin: auto;
+	padding: 15px 15px 15px 15px ;
+	 float: left;
+	width: auto;
+	height: auto;
+}
+
+body {
+  background: url('http://eskipaper.com/images/light-blue-wallpaper-19.jpg');
+  position: relative;
+}
+
+
+.box {
+	
+    font-family:'Comic Sans MS';
+	font-size: 16px;
+	vertical-align:text-top;
+	display:inline-block;
+    margin: auto;
+	padding: 75px 75px 75px 75px ;
+	 float: left;
+	width: 500px;
+	height: 300px;
+}
+
+.box2 {
+    font-family:'Comic Sans MS';
+	font-size: 16px;
+	vertical-align:text-top;
+	display:block;
+    margin: auto;
+	padding: 15px 15px 15px 15px ;
+	 float: left;
+	width: 333px;
+	height: 300px;
+}
+
+.box3 {
+    font-family:'Comic Sans MS';
+	font-size: 16px;
+	vertical-align:text-top;
+	display:inline-block;
+    margin: auto;
+	padding: 5px 5px 5px 40px ;
+	 float: left;
+	width: 100%;
+	height: auto;
+}
+
+.oneFile {
+	font-family:'Comic Sans MS';
+	font-size: 16px;
+	vertical-align:text-top;
+	display:inline-block;
+	margin: auto;
+    padding:40px 75px 75px 75px;
+	 float: left;
+	width: 500px;
+	height: auto;
+}
+
+
+ul.a {
+    list-style-type: disc;
+}
+
+.txtbox{
+	font-family:'Comic Sans MS';
+	font-size: 16px;
+	display: inline-block;
+	float: left;
+	height: 50px;
+	width: 400px;
+}
+
+
+a.button {
+  background: #2e2728;
+  font-family: 'Comic Sans MS';
+  color: #A8A8A8;
+  font-size: 20px;
+  padding: 4px 10px 4px 10px;
+  text-decoration: none;
+  border-radius: 7px;
+  display: inline-block;
+  float: left;
+  height: auto;
+  width: auto;
+  margin: -20px -40px -40px;
+}
+
+a.button:hover {
+  background: #A8A8A8;
+  color: #2e2728;
+  font-family: 'Comic Sans MS';
+  font-size: 20px;
+  padding: 4px 10px 4px 10px;
+  text-decoration: none;
+}
